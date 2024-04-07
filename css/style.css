@@ -491,7 +491,7 @@ hr
 {
      .header-container{
           display: flex;
-          flex-direction: column;
+          flex-direction: row;
           width: 70%;
      }
      .header-content
