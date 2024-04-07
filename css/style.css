@@ -492,21 +492,21 @@ hr
      .header-container{
           display: flex;
           flex-direction: row;
-          width: 100%;
+          width: 70%;
      }
      .header-content
      {
-          width: 100%;
+          width: 70%;
      }
      main{
           display: flex;
-          flex-direction: column;
-          width: 80%;
+          flex-direction: row;
+          width: 70%;
           margin-top: 100px;
      }
     section{
      display: flex;
-     flex-direction: column;
+     flex-direction: row;
      width: 70%;
     }
     footer{
