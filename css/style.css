@@ -88,9 +88,9 @@ body
      width: 0;
      height: 0;
      left: 0;
-     top:0;
      bottom: 0;
-     right: 0;
+     top:0;
+     right:0;
      opacity: 0;
      border: 2px solid #7b5244;
      transform: scale(1.5);
@@ -487,7 +487,7 @@ hr
 }
 
 
-@media (max-width:567px)
+/*@media (max-width:567px)
 {
      header{
           display: flex;
@@ -510,4 +510,4 @@ hr
      width: 70%;
     }
 
-}
+}*/
