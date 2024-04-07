@@ -489,13 +489,14 @@ hr
 
 @media (max-width:567px)
 {
-     header{
+     .header-container{
           display: flex;
           flex-direction: column;
+          width: 70%;
      }
      .header-content
      {
-          width: 70%;
+          width: 100%;
      }
      main{
           display: flex;
