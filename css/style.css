@@ -487,15 +487,15 @@ hr
 }
 
 
-@media (max-width:600px)
+@media (max-width:567px)
 {
      header{
           display: flex;
           flex-direction: column;
      }
-     .header-list
+     .header-content
      {
-          width: 100%;
+          width: 70%;
      }
      main{
           display: flex;
