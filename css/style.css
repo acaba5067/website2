@@ -495,7 +495,7 @@ hr
      }
      .header-list
      {
-          width: 80%;
+          width: 100%;
      }
      main{
           display: flex;
