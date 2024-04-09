@@ -536,6 +536,24 @@ hr
      {
           width: 100%;
      }
+     .sec3
+     {
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: row;
+          margin: auto;
+          margin-top: 100px;
+     }
+     .sec3-div
+     {
+          display: flex;
+          flex-direction: row;
+          margin: auto;
+     }
+     .sec3-div-div1
+     {
+         margin-right: auto;
+     }
     section{
      display: flex;
      flex-direction: row;
