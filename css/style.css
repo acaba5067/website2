@@ -489,6 +489,9 @@ hr
 
 @media (max-width:567px)
 {
+     :root{
+          margin: auto;
+     }
     .header-content{
      display: flex;
      flex-direction: column;
@@ -560,6 +563,15 @@ hr
      display: flex;
      flex-direction: row;
      justify-content: center;
+    }
+    .sec6-title{
+     margin-left: 100px;
+    }
+    .sec6-line{
+     margin-left: 100px;
+    }
+    .sec6-list{
+     margin-left: 100px;
     }
     
 
