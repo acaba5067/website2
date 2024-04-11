@@ -489,15 +489,11 @@ hr
 
 @media (max-width:567px)
 {
-     :root{
-          margin: auto;
-     }
     .header-content{
      display: flex;
-     flex-direction: column;
+     flex-direction: row;
      flex-wrap: wrap;
-     justify-content: center;
-     align-items:center;
+     justify-content: space-around;
     }
     .content-sec1
     {
