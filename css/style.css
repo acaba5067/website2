@@ -561,13 +561,23 @@ hr
      justify-content: center;
     }
     .sec6-title{
-     margin-left: 100px;
+     text-align: center;
     }
     .sec6-line{
-     margin-left: 100px;
+     text-align: center;
     }
     .sec6-list{
-     margin-left: 100px;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     margin-top: 50px;
+    }
+    .sec6-content
+    {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     margin-top: 100px;
     }
     
 
