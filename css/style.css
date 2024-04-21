@@ -495,15 +495,16 @@ hr
      .container{
           display: flex;
           width: 100%;
+          flex-wrap: wrap;
           flex-direction: row;
-          justify-content: space-around;
+          justify-content: center;
      }
      .header-content
      {
           display: flex;
           flex-direction: row;
           flex-wrap: wrap;
-          justify-content: space-around;
+          justify-content: center;
      }
      .container-sec1
      {
@@ -511,7 +512,7 @@ hr
           flex-direction: row;
           flex-wrap: wrap;
           margin-top: 20px;
-          justify-content: space-around;
+          justify-content: center;
           padding: 200px;
 
      }
@@ -520,34 +521,35 @@ hr
           display: flex;
           flex-wrap: wrap;
           flex-direction: row;
-          justify-content: space-around;
+          justify-content: center;
           margin-top: 20px;
           padding: 50px;
      }
       .sec3{
           display: flex;
           flex-direction: row;
-          justify-content: space-around;
+          flex-wrap: wrap;
+          justify-content: center;
           margin-top: 20px;
       }
      .sec4-content{
           display: flex;
-          
           flex-wrap: wrap;
-          justify-content:space-around;
+          justify-content:center;
           margin-top: 20px;
      }
      .sec5-container{
           display: flex;
           flex-direction: row;
-          justify-content: space-around;
+          flex-wrap: wrap;
+          justify-content: center;
+          margin-top: 20px;
      }
      .sec6-content{
           display: flex;
-          margin-top: 200px;
           flex-direction: row;
           flex-wrap: wrap;
-          justify-content: space-around;
+          justify-content: center;
      }
 
 
