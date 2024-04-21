@@ -545,7 +545,7 @@ hr
           justify-content: center;
           margin-top: 20px;
      }
-     .sec6-content{
+     .sec6-container{
           display: flex;
           flex-direction: row;
           flex-wrap: wrap;
