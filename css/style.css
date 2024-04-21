@@ -492,7 +492,7 @@ hr
 @media (max-width:576px)
 {
 
-     /* .container{
+     .container{
           display: flex;
           width: 100%;
           flex-wrap: wrap;
@@ -516,7 +516,7 @@ hr
           display: flex;
           flex-wrap: wrap;
           flex-direction: row;
-     } */
+     }
 
 
 
