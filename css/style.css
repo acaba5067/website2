@@ -25,7 +25,7 @@ body
          display: flex;
          flex-direction: row;
          flex-wrap: wrap;
-         justify-content: space-around;
+         justify-content: center;
 }
 .header-logo
 {
@@ -492,7 +492,7 @@ hr
 @media (max-width:576px)
 {
 
-     .container{
+     /* .container{
           width: 80%;
           margin: auto;
      }
@@ -500,6 +500,15 @@ hr
      {
           display: flex;
           flex-direction: row;
+          justify-content: center;
+     }
+     .header-list{
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+     }
+     .header-log{
+          margin-left: auto;
      }
      .container-sec1
      {
@@ -523,7 +532,7 @@ hr
           flex-direction: row;
           justify-content:center;
           margin-top: 20px;
-          padding: 50px;
+          padding: 100px;
       }
      .sec4-content{
           display: flex;
@@ -536,7 +545,7 @@ hr
           flex-direction: row;
           justify-content:center;
           margin-top: 20px;
-     }
+     } */
    
     /* .header-content{
      display: flex;
